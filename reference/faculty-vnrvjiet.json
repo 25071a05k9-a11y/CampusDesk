@@ -1,0 +1,1234 @@
+[
+  {
+    "id": "vnrvjiet-official-1",
+    "name": "Dr. Vadlana Baby",
+    "department": "Computer Science & Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-2",
+    "name": "Dr. C. Kiran Mai",
+    "department": "Computer Science & Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-3",
+    "name": "Dr. B. V. Kiran Mayee",
+    "department": "Computer Science & Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-4",
+    "name": "Dr. Sabbineni Nagini",
+    "department": "Computer Science & Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-5",
+    "name": "Dr. G. Ramesh Chandra",
+    "department": "Computer Science & Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-6",
+    "name": "Dr. Myneni Madhu Bala",
+    "department": "Computer Science & Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-7",
+    "name": "Dr. Annapu Reddy Brahmananda Reddy",
+    "department": "Computer Science & Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-8",
+    "name": "Dr. Deepak Sukheja",
+    "department": "Computer Science & Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-9",
+    "name": "Sudeshna S.",
+    "department": "Computer Science & Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-10",
+    "name": "Pinapati Sudheer Benarji",
+    "department": "Computer Science & Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-11",
+    "name": "Indurthi Ravindra Kumar",
+    "department": "Computer Science & Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-12",
+    "name": "Dr. Manchikatla Srikanth",
+    "department": "Computer Science & Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-13",
+    "name": "Vijayakumar Chilamkurthi",
+    "department": "Computer Science & Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-14",
+    "name": "Karnam Akhil",
+    "department": "Computer Science & Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-15",
+    "name": "Perunalla Praveen",
+    "department": "Computer Science & Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-16",
+    "name": "Chappidi Sandhya Rani",
+    "department": "Computer Science & Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-17",
+    "name": "Dr. Para Rajesh",
+    "department": "Computer Science & Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-18",
+    "name": "Thirupathi Nanuvala",
+    "department": "Computer Science & Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-19",
+    "name": "Swathi Kadari",
+    "department": "Computer Science & Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-20",
+    "name": "N. Praveen Kumar",
+    "department": "Computer Science & Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-21",
+    "name": "Abbi Sandhya Rani",
+    "department": "Computer Science & Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-22",
+    "name": "Shetkar Ambika",
+    "department": "Computer Science & Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-23",
+    "name": "Dr. V. Srikanth Reddy",
+    "department": "Computer Science & Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-24",
+    "name": "Somanadha Satyadev Bulusu",
+    "department": "Computer Science & Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-25",
+    "name": "Srijita Majumder",
+    "department": "Computer Science & Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-26",
+    "name": "Dr. A. V. S. Swetha",
+    "department": "Computer Science & Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-27",
+    "name": "Inayath Sana",
+    "department": "Computer Science & Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-28",
+    "name": "K. Pratap Joshi",
+    "department": "Computer Science & Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-29",
+    "name": "Malle Sandeep",
+    "department": "Computer Science & Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-30",
+    "name": "A. Katyayani",
+    "department": "Computer Science & Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-31",
+    "name": "Sravanthi Sallaram",
+    "department": "Computer Science & Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-32",
+    "name": "M. Mohana Deepthi",
+    "department": "Computer Science & Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-33",
+    "name": "K. Jyothsnalatha",
+    "department": "Computer Science & Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-34",
+    "name": "Dr. P. Kishore",
+    "department": "Electronics & Communication Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/ece",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-35",
+    "name": "Dr. Y. Padma Sai",
+    "department": "Electronics & Communication Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/ece",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-36",
+    "name": "Dr. L. Padma Sree",
+    "department": "Electronics & Communication Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/ece",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-37",
+    "name": "Dr. Ranjan Kumar",
+    "department": "Electronics & Communication Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/ece",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-38",
+    "name": "Dr. Rajendra Prasad Somineni",
+    "department": "Electronics & Communication Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/ece",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-39",
+    "name": "Dr. N. Dhana Lakshmi",
+    "department": "Electronics & Communication Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/ece",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-40",
+    "name": "Shaik Khadar Sharif",
+    "department": "Electronics & Communication Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/ece",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-41",
+    "name": "Dr. A. Ramesh Kumar",
+    "department": "Electronics & Communication Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/ece",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-42",
+    "name": "Dr. Y. Chalapathi Rao",
+    "department": "Electronics & Communication Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/ece",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-43",
+    "name": "Cherukuri Maheswari",
+    "department": "Electronics & Communication Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/ece",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-44",
+    "name": "Haripriya Noonepalle",
+    "department": "Electronics & Communication Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/ece",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-45",
+    "name": "Aishwarya G Patil",
+    "department": "Electronics & Communication Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/ece",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-46",
+    "name": "Gundla Sukanya",
+    "department": "Electronics & Communication Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/ece",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-47",
+    "name": "Dr. P. Geetha Pavani",
+    "department": "Electronics & Communication Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/ece",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-48",
+    "name": "S. Baswarani",
+    "department": "Electronics & Communication Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/ece",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-49",
+    "name": "Katta Mounika",
+    "department": "Electronics & Communication Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/ece",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-50",
+    "name": "Kuthumbaka Bhashini",
+    "department": "Electronics & Communication Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/ece",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-51",
+    "name": "K Bhavyasri",
+    "department": "Electronics & Communication Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/ece",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-52",
+    "name": "Dr. V. Ramesh Babu",
+    "department": "Electrical & Electronics Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/eee",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-53",
+    "name": "Dr. Poonam Upadhyay",
+    "department": "Electrical & Electronics Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/eee",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-54",
+    "name": "Dr. K. Anuradha",
+    "department": "Electrical & Electronics Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/eee",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-55",
+    "name": "Dr. A. Anil Kumar",
+    "department": "Electrical & Electronics Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/eee",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-56",
+    "name": "Dr. N. Nageswara Reddy",
+    "department": "Electrical & Electronics Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/eee",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-57",
+    "name": "Dr. Ch. Rami Reddy",
+    "department": "Electrical & Electronics Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/eee",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-58",
+    "name": "Dr. Ch. Kasi Ramakrishnareddy",
+    "department": "Electrical & Electronics Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/eee",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-59",
+    "name": "P. Ramesh",
+    "department": "Electrical & Electronics Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/eee",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-60",
+    "name": "M. Naga Jyothi",
+    "department": "Electrical & Electronics Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/eee",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-61",
+    "name": "G. C. Prabhakar",
+    "department": "Electrical & Electronics Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/eee",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-62",
+    "name": "D. S. G. Krishna",
+    "department": "Electrical & Electronics Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/eee",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-63",
+    "name": "S. Poornima",
+    "department": "Electrical & Electronics Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/eee",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-64",
+    "name": "N. Amarnadh Reddy",
+    "department": "Electrical & Electronics Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/eee",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-65",
+    "name": "I. Neelima",
+    "department": "Electrical & Electronics Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/eee",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-66",
+    "name": "B. Devulal",
+    "department": "Electrical & Electronics Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/eee",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-67",
+    "name": "K. Sravani",
+    "department": "Electrical & Electronics Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/eee",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-68",
+    "name": "K. Srikanth",
+    "department": "Electrical & Electronics Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/eee",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-69",
+    "name": "G. Anjali Devi",
+    "department": "Electrical & Electronics Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/eee",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-70",
+    "name": "B. Naga Swetha",
+    "department": "Electrical & Electronics Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/eee",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-71",
+    "name": "B. Madhuri",
+    "department": "Electrical & Electronics Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/eee",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-72",
+    "name": "B. Harshini",
+    "department": "Electrical & Electronics Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/eee",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-73",
+    "name": "Dr. Sandhya N",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-74",
+    "name": "Dr. Sagar Yeruva",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-75",
+    "name": "Dr. Manjula Sri Rayudu",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-76",
+    "name": "Dr. Kousar Nikhath Alpuri",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-77",
+    "name": "Dr. Malige Gangappa",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-78",
+    "name": "Dr. Bandari Jalender",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-79",
+    "name": "Dr. Awari Harshavardhan",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-80",
+    "name": "Dr. Kakumani Aruna Kumari",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-81",
+    "name": "Dr. Gujjeti Nagaraju",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-82",
+    "name": "Dr. Dasari SriLaxmi",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-83",
+    "name": "Dr. Kunka Bheemalingappa",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-84",
+    "name": "Dr. Challabotla Naveen Reddy",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-85",
+    "name": "Dr. Chalumuru Suresh",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-86",
+    "name": "Dr. Sayeedakhanum Pathan",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-87",
+    "name": "Dr. Sayanti Chatterjee",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-88",
+    "name": "Dr. Koganti Nishanth",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-89",
+    "name": "Dr. Jasthi Kiran",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-90",
+    "name": "Apparasu Adithya Kashyap",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-91",
+    "name": "Mannepalli Venkata Krishna Rao",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-92",
+    "name": "Kancharagunta Kishan Babu",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-93",
+    "name": "Bhupesh Deka",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-94",
+    "name": "Preety Singh",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-95",
+    "name": "Korukonda Naga Durga Saile",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-96",
+    "name": "Kakumanu Sreenivasa Rao",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-97",
+    "name": "Jakkula Sravanthi",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-98",
+    "name": "Rajulapati Sudha",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-99",
+    "name": "Rudra Yamini Rani",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-100",
+    "name": "Etikala Gurumohan Rao",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-101",
+    "name": "Vorem Kishore",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-102",
+    "name": "Venkannagari Manjula",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-103",
+    "name": "Manthena Swapna Kumari",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-104",
+    "name": "Ravula Jyothsna",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-105",
+    "name": "Yellanki Veda Sahiti",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-106",
+    "name": "Muthyala Mehar Sharanya",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-107",
+    "name": "Kothakonda Akhila Tejaswini",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-108",
+    "name": "Chilukuri Divya",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-109",
+    "name": "Kapu Prathyusha",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-110",
+    "name": "Bappanna Bhagyashree",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-111",
+    "name": "Koneru Anitha",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-112",
+    "name": "Uppara Veeresh",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-113",
+    "name": "Nelluru Anjaneyulu",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-114",
+    "name": "Marlapudi Shara Lydia",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-115",
+    "name": "Kanchari Bavajigari Anusha",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-116",
+    "name": "Manjusha Nambiar",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-117",
+    "name": "Dondeti Sowmya Chowdary",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-118",
+    "name": "Potnuru Lakshmi Prasanna",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-119",
+    "name": "Kondepati Anusha",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-120",
+    "name": "Pandula Sujatha",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-121",
+    "name": "Kolli Veena",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-122",
+    "name": "N. Jaya Sri",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-123",
+    "name": "Vaidehi Ramadugu",
+    "department": "CSE (AI & ML), IoT & Robotics AI",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-aiml",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-124",
+    "name": "Dr. N. Mangathayaru",
+    "department": "Information Technology",
+    "source": "https://www.vnrvjiet.ac.in/departments/it",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-125",
+    "name": "Dr. G. Suresh Reddy",
+    "department": "Information Technology",
+    "source": "https://www.vnrvjiet.ac.in/departments/it",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-126",
+    "name": "Dr. G. Madhu",
+    "department": "Information Technology",
+    "source": "https://www.vnrvjiet.ac.in/departments/it",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-127",
+    "name": "Dr. D. Srinivasa Rao",
+    "department": "Information Technology",
+    "source": "https://www.vnrvjiet.ac.in/departments/it",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-128",
+    "name": "Dr. Pasupuleti Venkata Siva Kumar",
+    "department": "CSE (Cyber Security, Data Science & AI&DS)",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-ds",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-129",
+    "name": "Dr. P. Neelakantan",
+    "department": "CSE (Cyber Security, Data Science & AI&DS)",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-ds",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-130",
+    "name": "Dr. M. Raja Sekar",
+    "department": "CSE (Cyber Security, Data Science & AI&DS)",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-ds",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-131",
+    "name": "Dr. T. Sunil Kumar",
+    "department": "CSE (Cyber Security, Data Science & AI&DS)",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-ds",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-132",
+    "name": "Dr. B.D.V.C. Mohan Rao",
+    "department": "CSE (Cyber Security, Data Science & AI&DS)",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-ds",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-133",
+    "name": "Dr. P. Subhash",
+    "department": "CSE (Cyber Security, Data Science & AI&DS)",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-ds",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-134",
+    "name": "Dr. R. Vasavi",
+    "department": "CSE (Cyber Security, Data Science & AI&DS)",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-ds",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-135",
+    "name": "Dr. Srinivas Kanakala",
+    "department": "CSE (Cyber Security, Data Science & AI&DS)",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-ds",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-136",
+    "name": "Dr. N. Pushpa Latha",
+    "department": "CSE (Cyber Security, Data Science & AI&DS)",
+    "source": "https://www.vnrvjiet.ac.in/departments/cse-ds",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-137",
+    "name": "Dr. K. Ramujee",
+    "department": "Civil Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/civil",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-138",
+    "name": "Dr. A. Mallika",
+    "department": "Civil Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/civil",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-139",
+    "name": "T. Bhavani Chowdary",
+    "department": "Civil Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/civil",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-140",
+    "name": "Dr. Poonam Shekhawat",
+    "department": "Civil Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/civil",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-141",
+    "name": "Dr. Priyam Nath Bhowmik",
+    "department": "Civil Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/civil",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-142",
+    "name": "P. V. S. Gopi Raghunadh",
+    "department": "Civil Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/civil",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-143",
+    "name": "K. Veerendra Gopi",
+    "department": "Civil Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/civil",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-144",
+    "name": "V. Ramya Krishna",
+    "department": "Civil Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/civil",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-145",
+    "name": "A. Jyothirmai",
+    "department": "Civil Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/civil",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-146",
+    "name": "R. Harika",
+    "department": "Civil Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/civil",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-147",
+    "name": "G. Sambasiva Rao",
+    "department": "Civil Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/civil",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-148",
+    "name": "J. Soujanya",
+    "department": "Civil Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/civil",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-149",
+    "name": "P. Rama Rao",
+    "department": "Civil Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/civil",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-150",
+    "name": "S. H. Vamsi Krishna",
+    "department": "Civil Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/civil",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-151",
+    "name": "Dr. B. V. R. Ravi Kumar",
+    "department": "Mechanical Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/mech",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-152",
+    "name": "Dr. B. Chennakesava Rao",
+    "department": "Mechanical Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/mech",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-153",
+    "name": "Dr. G. Srinivasa Gupta",
+    "department": "Mechanical Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/mech",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  },
+  {
+    "id": "vnrvjiet-official-154",
+    "name": "Dr. N. Kiran Kumar",
+    "department": "Mechanical Engineering",
+    "source": "https://www.vnrvjiet.ac.in/departments/mech",
+    "sourceType": "official",
+    "checkedOn": "2026-10-12"
+  }
+]

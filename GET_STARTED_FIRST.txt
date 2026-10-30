@@ -1,0 +1,24 @@
+CAMPUSDESK - JAVA BACKEND / AGY CHAT / JEV ROUTING
+
+1. Extract the ZIP to a writable folder on Windows.
+2. Double-click Start_CampusDesk_Windows.cmd (or run_windows.bat).
+3. If Java 21 is missing, accept the OPTIONAL portable Eclipse Temurin download. It is stored only in .runtime/ inside this app. It does not modify system Java.
+4. If AGY is missing, accept the OPTIONAL official AGY setup; sign in using the AGY CLI. The official Windows installer is downloaded only with user confirmation.
+5. Connect the server PC to the configured VNRVJIET Wi-Fi network. Otherwise you will see a genuine Wi-Fi restriction screen. Set the real SSID in .env.
+6. Visit http://127.0.0.1:8000
+
+CHAT: AGY CLI is the preferred model engine. If unavailable, the answer explicitly says local guidance.
+ROUTING: Jev is a separate typed router. This GitHub-ready package contains no .env and no API keys. Copy .env.example to .env and add your own JEV_API_KEY if you have permission. A live internet connection and a valid Jev account are required for remote routing; otherwise explicit local rules are used.
+SEND_TO: Creates a REVIEWABLE ticket draft. Student must confirm submission; no external college notification.
+
+The ZIP includes a working precompiled Java 21 JAR and a lightweight offline browser UI, and the editable React source in frontend/src. A React/Vite production bundle can replace the fallback when npm access is available. npm is not required to launch this packaged offline build.
+
+IMPORTANT SECURITY NOTES:
+- No real ERP/EduPrime data. No official staff delivery, login, or account verification.
+- An SSID check is NOT identity authentication; the host machine's Wi-Fi is tested.
+- Do not enter passwords, OTPs, financial details or sensitive student data in AGY chat.
+- AGY is launched with --sandbox. No dangerous permission-bypass flag is used.
+- Faculty names come from existing dated public reference data; no random office numbers are labeled as verified.
+- AGY account sign-in cannot be completed inside this ZIP: it must be done interactively on your Windows PC.
+
+PRESENTATION COPY NOTICE: No API keys or populated .env files are included in this source package. Never commit .env or real credentials. If you previously shared a presentation ZIP containing an API key, rotate that key.

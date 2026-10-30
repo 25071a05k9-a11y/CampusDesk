@@ -1,0 +1,31 @@
+# Credentials, machine-specific settings and private user data
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+*.log
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated local user data and dependencies
+data/
+.runtime/
+frontend/node_modules/
+node_modules/
+.env.local
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# The v7 precompiled CampusDesk.jar and frontend/dist offline UI are intentionally
+# included for one-click demonstration without a Node build.
+
+# Local compilation
+build/
+*.class
